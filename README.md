@@ -1,7 +1,7 @@
 # PRG210-Group-Project: Grocery Store Management System
 Group Members:
-Adeel Shah
-Jasmeet Singh Saluja
+Adeel Shah\n
+Jasmeet Singh Saluja\n
 Yue Ma
 Justin Lagrimas
 
